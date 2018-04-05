@@ -10,7 +10,7 @@ public class TesteService {
 	@GET
 	@Produces("text/plain")
 	public String disOla(){
-		return "Olá Mundo Rest!";
+		return "Olá Lindo Mundo Rest No GitHub!";
 	}
 
 }
